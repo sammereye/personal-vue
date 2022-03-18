@@ -1,0 +1,98 @@
+body {
+  background-color: #353d57;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.header-name {
+  color: #9796a9;
+}
+
+.bar {
+  background-color: rgb(33 37 48);
+}
+
+.editor {
+  background-color: rgb(40 44 58);
+}
+
+.close {
+  background-color: rgb(236 106 94); 
+}
+
+.minimize {
+  background-color: rgb(245 190 74);
+}
+
+.maximize {
+  background-color: rgb(95 196 85);
+}
+
+.side-bar {
+  background-color: rgb(51 56 72);
+}
+
+.file-bar {
+  background-color: rgb(33 37 48);
+}
+
+.file-tab {
+  border-right: 1px solid #0d111a;
+}
+
+.file-tab-active {
+  background-color: rgb(40 44 58);
+}
+
+.file-tab-text {
+  color: #95969c;
+  margin-top: -1px;
+}
+
+.file-tab-active .file-tab-text {
+  color: #e1e1e5;
+}
+
+.number-column {
+  font-family: 'Roboto Mono', monospace;
+  color: #8e9198;
+  font-weight: 500;
+}
+
+.code-column {
+  font-family: 'Roboto Mono', monospace;
+  color: #c7cad4;
+}
+
+.preview {
+  border-top: 1px solid #484d5b;
+  background-color: rgb(36 39 58);
+}
+
+.preview-bar {
+  color: #adb1bb;
+  font-weight: 500;
+}
+
+.preview-bar > div {
+  border-bottom: 1px solid #adb1bb;
+}
+
+.code-blue {
+  color: #46a2f1;
+}
+
+.code-green {
+  color: #90d26e;
+}
+
+.code-orange {
+  color: #F0AD4E;
+}
+
+.code-red {
+  color: #fe596f;
+}
+
+.code-purple {
+  color: rgb(209, 79, 235);
+}
